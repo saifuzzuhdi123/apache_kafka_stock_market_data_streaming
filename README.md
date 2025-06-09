@@ -1,6 +1,6 @@
 # Apache Kafka Stock Market Data Streaming
 
-This project demonstrates real-time stock market data streaming using Apache Kafka. The implementation and demonstration are performed using Jupyter Notebooks and deployed in AWS, making it easy to visualize and analyze streaming data workflows.
+This project focused on real-time stock market data streaming using Apache Kafka. The project demonstrates how to use Apache Kafka for capturing, processing, and streaming stock market data efficiently. It is implemented entirely in Jupyter Notebook, making it easy to follow along with the code, explanations and deployed in Amazon EC2 instance and S3 . The repository is ideal for those interested in learning about real-time data pipelines, stream processing, and practical applications of Kafka in the context of financial data.
 
 ## Table of Contents
 
